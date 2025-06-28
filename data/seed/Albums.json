@@ -1,0 +1,200 @@
+[
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "Bob Marley and the Wailers",
+        "AlbumTitle": "Kaya",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Reggae",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "Is This Love"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Jamming"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "Roy Orbison",
+        "AlbumTitle": "Gold",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Rock and Roll",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "Is This Love"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Only the Lonely"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Crying"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "In Dreams"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Running Scared"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Jamming"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "The Eagles",
+        "AlbumTitle": "Hotel California",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Rock and Roll",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "Hotel California"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "New Kid in Town"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Life in the Fast Lane"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "Fleetwood Mac",
+        "AlbumTitle": "Rumours",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Rock and Roll",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "Go Your Own Way"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Dreams"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Don't Stop"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "Willie Nelson",
+        "AlbumTitle": "Gold",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Rock and Roll",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "On the Road Again"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Blue Eyes Crying in the Rain"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Always on My Mind"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 0,
+        "CoverUrl": "",
+        "WorldIdentifier": "",
+        "Artist": "Kenny Rodgers",
+        "AlbumTitle": "",
+        "Allowed": "34,12,32",
+        "Year": "1978",
+        "Genre": "Country and Western",
+        "Cds": [
+            {
+                "Id": 0,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "The Gambler"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Islands in the Stream"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Lucille"
+                    }
+                ]
+            },  {
+                "Id": 1,
+                "SongTitles": [
+                    {
+                        "Id": 0,
+                        "Title": "The Gambler"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Islands in the Stream"
+                    },
+                    {
+                        "Id": 0,
+                        "Title": "Lucille"
+                    }
+                ]
+            }
+        ]
+    }
+]
