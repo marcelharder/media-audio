@@ -6,8 +6,8 @@
         "Artist": "Bob Marley and the Wailers",
         "AlbumTitle": "Kaya",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Reggae",
+        "Year": 1972,
+        "Genre": 1,
         "Cds": [
             {
                 "Id": 0,
@@ -31,8 +31,8 @@
         "Artist": "Roy Orbison",
         "AlbumTitle": "Gold",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Rock and Roll",
+        "Year": 1976,
+        "Genre": 2,
         "Cds": [
             {
                 "Id": 0,
@@ -72,8 +72,8 @@
         "Artist": "The Eagles",
         "AlbumTitle": "Hotel California",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Rock and Roll",
+        "Year": 1978,
+        "Genre": 2,
         "Cds": [
             {
                 "Id": 0,
@@ -101,8 +101,8 @@
         "Artist": "Fleetwood Mac",
         "AlbumTitle": "Rumours",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Rock and Roll",
+        "Year": 1977,
+        "Genre":2,
         "Cds": [
             {
                 "Id": 0,
@@ -130,8 +130,8 @@
         "Artist": "Willie Nelson",
         "AlbumTitle": "Gold",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Rock and Roll",
+        "Year": 1982,
+        "Genre": 3,
         "Cds": [
             {
                 "Id": 0,
@@ -159,8 +159,8 @@
         "Artist": "Kenny Rodgers",
         "AlbumTitle": "",
         "Allowed": "34,12,32",
-        "Year": "1978",
-        "Genre": "Country and Western",
+        "Year": 1978,
+        "Genre": 3,
         "Cds": [
             {
                 "Id": 0,

@@ -1,39 +1,46 @@
+using data.models;
+
 namespace media_audio.Interfaces;
-public class Audio:IAudio
+
+public class Audio : IAudio
 {
+    private readonly DataContext _context;
+    public Audio(DataContext context)
+    {
+        _context = context;
+    }
+
     public Task<IEnumerable<string>> GetAllAudioFiles(string username)
     {
-        // Implementation to get all audio files for a user
         throw new NotImplementedException();
     }
 
     public Task<string> GetSpecificAudioFile(int id)
     {
-        // Implementation to get a specific audio file by ID
         throw new NotImplementedException();
     }
 
     public Task<string> GetSpecificAlbum(int id)
     {
-        // Implementation to get a specific album by ID
         throw new NotImplementedException();
     }
 
-    public Task<string> AddAudioFile(string username, string filePath)
+    public Task<string?> AddAudioFile(AlbumDetails albumDetails)
     {
-        // Implementation to add an audio file for a user
-        throw new NotImplementedException();
+        _context.Albums.Add(albumDetails);
+        _context.SaveChanges();
+        return Task.FromResult(albumDetails.AlbumTitle);
     }
 
     public Task<bool> DeleteAudioFile(int id)
     {
-        // Implementation to delete an audio file by ID
         throw new NotImplementedException();
     }
 
     public Task<bool> UpdateAudioFile(int id, string newFilePath)
     {
-        // Implementation to update an audio file by ID
         throw new NotImplementedException();
     }
-}   
+
+    
+}
